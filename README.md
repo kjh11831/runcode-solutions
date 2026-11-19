@@ -4,12 +4,13 @@
 
 C · Python 문제를 풀면 이곳에 자동으로 쌓입니다.
 
-- **해결한 문제:** 5개
+- **해결한 문제:** 6개
 
 ## 해결한 문제
 
 | 언어 | 번호 | 제목 | 단원 | 난이도 | 해결일 |
 | --- | --- | --- | --- | --- | --- |
+| Python | 8 | [자료형 변환하기 (int, float, str)](submissions/python/008_%EC%9E%90%EB%A3%8C%ED%98%95_%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0_(int,_float,_str)) | 파이썬 프로그램의 첫걸음 | ★ | 2026-11-19 |
 | Python | 1 | [가장 작은 파이썬 프로그램](submissions/python/001_%EA%B0%80%EC%9E%A5_%EC%9E%91%EC%9D%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8) | 파이썬 프로그램의 첫걸음 | ★ | 2026-11-06 |
 | C | 4 | [printf의 형식 문자열](submissions/c/004_printf%EC%9D%98_%ED%98%95%EC%8B%9D_%EB%AC%B8%EC%9E%90%EC%97%B4) | C 프로그램의 첫걸음 | ★ | 2026-09-29 |
 | C | 1 | [가장 작은 C 프로그램](submissions/c/001_%EA%B0%80%EC%9E%A5_%EC%9E%91%EC%9D%80_C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8) | C 프로그램의 첫걸음 | ★ | 2026-09-29 |
