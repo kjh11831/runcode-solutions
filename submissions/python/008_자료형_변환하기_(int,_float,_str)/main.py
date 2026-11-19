@@ -1,0 +1,5 @@
+x = input()
+y = input()
+print(f"문자열로 더하면: {x + y}")
+print(f"정수로 더하면: {int(x) + int(y)}")
+print(f"실수로 나누면: {float(x) / float(y):.2f}")
