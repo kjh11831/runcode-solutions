@@ -1,0 +1,6 @@
+a = int(input())
+b = float(input())
+print(f"a = {a} ({type(a).__name__})")
+print(f"b = {b} ({type(b).__name__})")
+print(f"a + b = {a + b} ({type(a + b).__name__})")
+print(f"a * 2 = {a * 2} ({type(a * 2).__name__})")
